@@ -1,11 +1,6 @@
-# Webpack Config to get up and running with a small vanilla js project
+# Tailwind CSS Explore
 
-Build includes support for:
-    sass
-    babel
-    eslint
-    webpack dev server
-    optimization for production
+Exploring tailwindcss. Boilerplate webpack that incorporate tailwind :)
 
 
 
